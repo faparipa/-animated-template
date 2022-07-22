@@ -1,2 +1,2 @@
-# infinity-scroll
-javascript20-projects-infinity-scroll
+# animated-template
+javascript20-projects-animated-template
